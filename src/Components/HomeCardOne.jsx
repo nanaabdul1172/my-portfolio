@@ -16,12 +16,12 @@ export default function HomeCardOne() {
                 that delight users and drive business growth.
             </p>
             <div className='flex gap-5 ml-7 mt-10'>
-                <Link to="/projects" className='flex items-center gap-4 bg-pink-500 text-black font-bold p-4 rounded-md hover:bg-pink-700 hover:scale-105 transition-transform'>
+                <Link to="/projects" className='flex items-center gap-4 bg-pink-500 text-black font-bold p-4 rounded-md hover:bg-pink-700 hover:scale-105 transition-transform focus:outline-none focus:ring-2 focus:ring-pink-700 focus:ring-offset-2'>
                     View projects
-                    <ArrowBigRight size={16}/>
+                    <ArrowBigRight size={16} aria-hidden="true" />
                 </Link>
-                <a href="/resume.pdf" download className='flex items-center gap-3 bg-white text-black font-bold p-4 rounded-lg hover:bg-gray-200 border border-gray-300 hover:scale-105 transition-transform' aria-label="Download Resume">
-                    <File size={17}/>
+                <a href="/resume.pdf" download className='flex items-center gap-3 bg-white text-black font-bold p-4 rounded-lg hover:bg-gray-200 border border-gray-300 hover:scale-105 transition-transform focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-offset-2' aria-label="Download Resume">
+                    <File size={17} aria-hidden="true" />
                     Download Resume
                 </a>
             </div>
