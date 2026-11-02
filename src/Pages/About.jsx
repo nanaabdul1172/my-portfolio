@@ -11,24 +11,30 @@ export default function About() {
 
   const experience = [
     {
-      title: 'Frontend Developer',
-      company: 'Tech Solutions Inc.',
-      period: '2023 - Present',
-      description: 'Building responsive web applications with React and modern frontend technologies. Collaborating with design teams to implement pixel-perfect interfaces.'
+      title: 'AI/ML Engineer',
+      company: 'Tech Crush.',
+      period: 'Sep 2026 - Present',
+      description: 'Building foundational and practical expertise in AI/ML engineering and applied machine learning. Gaining hands-on experience in data preprocessing, building predictive models, documenting technical workflows, and managing end-to-end machine learning pipelines from concept to execution in collaborative and independent settings.'
     },
     {
-      title: 'UI/UX Designer',
-      company: 'Creative Studio',
-      period: '2021 - 2023',
-      description: 'Designed user-centered interfaces for web and mobile applications. Created design systems and component libraries to ensure consistency across products.'
+      title: 'Front-end Developer',
+      company: 'Drips-Network',
+      period: 'Jan 2026 - Present',
+      description: 'Managed open-source repository hygiene by triaging GitHub issues, organizing community discussions, and maintaining project documentation. Prepared technical release notes, coordinated asynchronous team communication, and supported core maintainers with pull request reviews and workflow tracking.'
+      },
+      {
+      title: 'Web Development Intern',
+      company: 'Skills Fusion Network LTD',
+      period: 'Sep 2025 - Jan 2026',
+      description: 'Gained hands-on experience in UI/UX design and front-end web development through practical, project-based training. Applied structured methodologies to design user interfaces, build responsive web components, maintain project documentation, and organize development workflows from concept to execution both independently and collabratively.'
     }
   ]
 
   const education = [
     {
       degree: 'Bachelor of Science in Computer Science',
-      institution: 'University of Technology',
-      period: '2017 - 2021',
+      institution: 'Kwara State University',
+      period: '2022 - 2026',
       description: 'Focused on web development, software engineering, and human-computer interaction.'
     }
   ]

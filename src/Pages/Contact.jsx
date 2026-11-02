@@ -111,7 +111,7 @@ export default function Contact() {
                     <div>
                       <h3 className="font-semibold text-gray-900">Email</h3>
                       <a href="mailto:nanafirdausi@example.com" className="text-gray-600 hover:text-pink-500 transition-colors">
-                        nanafirdausi@example.com
+                        abdulrahmanfirdausionize@gmail.com
                       </a>
                     </div>
                   </div>
@@ -121,7 +121,7 @@ export default function Contact() {
                     <div>
                       <h3 className="font-semibold text-gray-900">Phone</h3>
                       <a href="tel:+1234567890" className="text-gray-600 hover:text-pink-500 transition-colors">
-                        +123 456 7890
+                        +234 9035470996 || +2349027815434
                       </a>
                     </div>
                   </div>
@@ -141,7 +141,7 @@ export default function Contact() {
                 <h2 className="text-2xl font-bold text-gray-900 mb-6">Connect With Me</h2>
                 <div className="flex gap-4">
                   <a
-                    href="https://github.com/nanafirdausi"
+                    href="https://github.com/nanaabdul1172/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-2 bg-gray-900 text-white px-4 py-2 rounded-lg hover:bg-gray-700 transition-colors"
@@ -151,7 +151,7 @@ export default function Contact() {
                     GitHub
                   </a>
                   <a
-                    href="https://linkedin.com/in/nanafirdausi"
+                    href="https://linkedin.com/in/firdausiabdulrahman"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-2 bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors"
