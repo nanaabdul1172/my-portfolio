@@ -7,13 +7,10 @@ export default function HomeCardOne() {
     <div className=' p-10 flex justify-around gap-5 bg-white/20 backdrop-blur-sm'>
         <div>
             <div className='text-white text-8xl font-bold p-2 ml-7'>Hello, i'm</div>
-             <div className='text-pink-700 font-bold text-8xl p-3 ml-5'>Nana Firdausi</div>
-            <p className='text-white font-semibold text-2xl p-2 ml-7'>FRONT END DEVELOPER | UI/UX ARCHITECT</p>
+             <div className='text-pink-700 font-bold text-8xl p-3 ml-5'>Firdausi Onize Abdulrahman</div>
+            <p className='text-white font-semibold text-2xl p-2 ml-7'>FRONT END DEVELOPER | AI/ML ENGINEER IN TRAINING</p>
             <p className='p-2 text-gray-950 text-2xl ml-7'>
-                Building pixel perfect, accessible and high performance web <br />
-                experiences with a keen eye for modern design and user interactions. <br />
-                Specializing in crafting robust, scalable, and intuitive interfaces <br />
-                that delight users and drive business growth.
+               Computer Science graduate and web developer/AI engineer in training with a strong foundation in modern web technologies and machine learning fundamentals. Combines core software development skills with exceptional organization, clear communication, and process discipline. Eager to contribute clean code, collaborate effectively, and help drive development projects on schedule.
             </p>
             <div className='flex gap-5 ml-7 mt-10'>
                 <Link to="/projects" className='flex items-center gap-4 bg-pink-500 text-black font-bold p-4 rounded-md hover:bg-pink-700 hover:scale-105 transition-transform focus:outline-none focus:ring-2 focus:ring-pink-700 focus:ring-offset-2'>
