@@ -88,18 +88,18 @@ export default function Contact() {
   return (
     <>
       <Header />
-      <div className="min-h-screen bg-gradient-to-br from-pink-50 to-white py-16 px-4">
+      <div className="min-h-screen bg-gradient-to-br from-pink-50 to-white py-12 md:py-16 px-4">
         <div className="max-w-6xl mx-auto">
           {/* Header Section */}
-          <div className="text-center mb-12">
-            <h1 className="text-5xl font-bold text-gray-900 mb-4">Get In Touch</h1>
-            <p className="text-xl text-gray-600 max-w-2xl mx-auto">
+          <div className="text-center mb-8 md:mb-12">
+            <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">Get In Touch</h1>
+            <p className="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto">
               Have a project in mind or want to collaborate? I'd love to hear from you. 
               Send me a message and I'll get back to you as soon as possible.
             </p>
           </div>
 
-          <div className="grid md:grid-cols-2 gap-8">
+          <div className="grid md:grid-cols-2 gap-6 md:gap-8">
             {/* Contact Information */}
             <div className="space-y-6">
               <div className="bg-white p-8 rounded-lg shadow-lg">
